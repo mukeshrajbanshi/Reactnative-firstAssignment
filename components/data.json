@@ -1,0 +1,13 @@
+{
+  "data": [
+    { "key": "Murthy", "city": "hyderbad" },
+    { "key": "Kavitha", "city": "mumbai" },
+    { "key": "Raju", "city": "banglore" },
+    { "key": "Lalitha", "city": "delhi" },
+    { "key": "Janvi", "city": "patna" },
+    { "key": "Goel", "city": "kolkata" },
+    { "key": "John", "city": "singapure" },
+    { "key": "Laxmi", "city": "nagpur" },
+    { "key": "Karthik", "city": "delhi" }
+  ]
+}
